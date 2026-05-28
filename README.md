@@ -28,7 +28,9 @@
 
 ---
 
-<!--Connect--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Connect With Me</h2></summary> </ul> </div> <p align="center"> <a href="https://www.linkedin.com/in/mohamedyassinekaibi/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /> </a> &nbsp; <a href="mailto:kaibi.0yassine@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="email" height="50" width="50" /> </a> </p>
+<!--Connect--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Connect With Me</h2></summary> </ul> </div> <p align="center"> <a href="https://www.linkedin.com/in/mohamedyassinekaibi/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /> </a> &nbsp; <a href="mailto:kaibi.0yassine@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="gmail" height="50" width="50" />
+</a> </p>
 
 
 </div> <!--horizontal divider--> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
