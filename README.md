@@ -20,10 +20,8 @@
 ---
 
 
-| ![Stats](./profile/stats.svg)                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YassineKaibi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10) |
-
+| ![Stats](./profile/stats.svg) | ![Languages](https://github-readme-stats-alpha-eight-30.vercel.app/api/top-langs/?username=YassineKaibi&theme=transparent&hide_border=true&langs_count=10&layout=compact) |
+| --- | --- |
 ---
 
 <!--Tech Stack--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Tech Stack</h2></summary> </ul> </div> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=rust,kotlin,java,spring,docker,postgres,redis,python,nginx,androidstudio,cpp,linux&perline=6" /> </a> </p>
