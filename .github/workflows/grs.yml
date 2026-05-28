@@ -17,7 +17,7 @@ jobs:
       - name: Fetch stats card
         run: |
           mkdir -p profile
-          curl -s "https://github-readme-stats-alpha-eight-30.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=transparent" \
+          curl -s "https://github-readme-stats-alpha-eight-30.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark" \
             -o profile/stats.svg
 
       - name: Validate SVG
