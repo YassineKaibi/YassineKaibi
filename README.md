@@ -1,36 +1,33 @@
-# Mohamed Yassine Kaibi
-
-Software Engineering Student | IoT & Backend Developer | Future Founder
+<!--horizontal divider--> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--Name--> <div id="user-content-toc"> <ul align="center"> <summary><h1 style="display: inline-block">Hi, I'm Yassine 👋</h1></summary> </ul> </div> <!--Tagline--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Embedded engineer by instinct, cloud architect by design</h2></summary> </ul> </div>
 
 ---
 
-## About Me
+<!--Intro-->
 
-I'm a software engineering student at ISIMM (Tunisia) with a focus on building practical solutions at the intersection of hardware and software. My goal is to establish a startup developing integrated hardware-software products, grounded in strong research and engineering foundations.
+- Currently interning at **Smartovate** with a focus on **Cloud & DevOps**
+    
+- Building **VanneControl** - an IoT valve control system for agricultural irrigation using Kotlin/Ktor, ESP32, MQTT, and Docker.
+    
+- Co-building **Crucible** - a deterministic simulation testing framework for Raft KV stores in Rust
+    
+- Software Engineering student at **ISIMM**, specializing in Software Engineering (Cycle Ingénieur, class of 2028)
+    
+- Ask me about **embedded systems, backend architecture, Ktor, Cloud/DevOps, or IoT protocols**
+    
+- Reach me at **kaibi.0yassine@gmail.com**
+    
 
-## Technical Skills
+---
 
-**Embedded & IoT**  
-ESP32, Sensor Integration, Hardware-Software Systems
+<!--Stats--> <p align="center"> <table align="center"> <tr border="none"> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YassineKaibi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" /> </td> </tr> </table>
 
-**Backend Development**  
-Ktor (Kotlin), REST APIs, Mosquitto, Nginx, Redis, ASP.NET Core
+---
 
-**Mobile Development**  
-Android (Kotlin), Room Database, MVC Architecture
+<!--Tech Stack--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Tech Stack</h2></summary> </ul> </div> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=rust,kotlin,java,spring,docker,postgres,redis,python,nginx,androidstudio,cpp,linux&perline=6" /> </a> </p>
 
-**DevOps & Tools**  
-Docker, Git, Linux, WSL
+---
 
-**Languages**  
-Kotlin, Python, Java, C#, C++, C, GLSL
+<!--Connect--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Connect With Me</h2></summary> </ul> </div> <p align="center"> <a href="https://www.linkedin.com/in/mohamedyassinekaibi/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /> </a> &nbsp; <a href="mailto:kaibi.0yassine@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="email" height="50" width="50" /> </a> </p>
 
-## Current Focus
 
-- Deepening expertise in secure IoT systems and embedded development
-- Building scalable backend architectures
-- Exploring opportunities to bridge academic research with product development
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedyassinekaibi)
+</div> <!--horizontal divider--> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
