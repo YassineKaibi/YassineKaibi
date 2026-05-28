@@ -19,9 +19,11 @@
 
 ---
 
-
-| ![Stats](./profile/stats.svg) | ![Languages](https://github-readme-stats-alpha-eight-30.vercel.app/api/top-langs/?username=YassineKaibi&theme=transparent&hide_border=true&langs_count=10&layout=compact) |
-| --- | --- |
+<div align="center">
+  <img src="./profile/stats.svg" alt="Stats" />
+  &nbsp;
+  <img src="./profile/langs.svg" alt="Languages" />
+</div>
 ---
 
 <!--Tech Stack--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Tech Stack</h2></summary> </ul> </div> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=rust,kotlin,java,spring,docker,postgres,redis,python,nginx,androidstudio,cpp,linux&perline=6" /> </a> </p>
