@@ -1,4 +1,4 @@
-name: Update_README_cards
+name: Update README cards
 
 on:
   schedule:
@@ -16,8 +16,16 @@ jobs:
 
       - name: Fetch stats card
         run: |
+          mkdir -p profile
           curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true" \
             -o profile/stats.svg
+
+      - name: Validate SVG
+        run: |
+          if grep -q "title>Error" profile/stats.svg; then
+            cat profile/stats.svg
+            exit 1
+          fi
 
       - name: Commit cards
         run: |
