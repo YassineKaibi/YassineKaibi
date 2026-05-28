@@ -14,18 +14,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch stats card
+      - name: Fetch cards
         run: |
           mkdir -p profile
-          curl -s "https://github-readme-stats-alpha-eight-30.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark" \
+          curl -s "https://github-readme-stats-alpha-eight-30.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true" \
             -o profile/stats.svg
+          curl -s "https://github-readme-stats-alpha-eight-30.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=transparent&hide_border=true&langs_count=10&layout=compact" \
+            -o profile/langs.svg
 
-      - name: Validate SVG
+      - name: Validate SVGs
         run: |
-          if grep -q "title>Error" profile/stats.svg; then
-            cat profile/stats.svg
-            exit 1
-          fi
+          for f in profile/stats.svg profile/langs.svg; do
+            if grep -q "title>Error" "$f"; then
+              echo "Error in $f:"
+              cat "$f"
+              exit 1
+            fi
+          done
 
       - name: Commit cards
         run: |
