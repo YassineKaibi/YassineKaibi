@@ -25,7 +25,7 @@ jobs:
       - name: Validate SVGs
         run: |
           for f in profile/stats.svg profile/langs.svg; do
-            if grep -q "title>Error" "$f"; then
+            if grep -qi "something went wrong\|title>Error" "$f"; then
               echo "Error in $f:"
               cat "$f"
               exit 1
