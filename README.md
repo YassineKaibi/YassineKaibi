@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/stats.svg?v=2" alt="Stats" />
   &nbsp;
   <img src="./profile/langs.svg" alt="Languages" />
 </div>
