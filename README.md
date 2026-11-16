@@ -13,7 +13,8 @@
 - Ask me about **embedded systems, backend architecture, Ktor, Cloud/DevOps, or IoT protocols**
     
 - Reach me at **kaibi.0yassine@gmail.com**
-    
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/YassineKaibi/badge.svg)](https://hub.xerj.org/contributors/YassineKaibi)
 
 ---
 
