@@ -3,8 +3,6 @@
 ---
 
 <!--Intro-->
-
-- Currently interning at **Smartovate** with a focus on **Cloud & DevOps**
     
 - Building **VanneControl** - an IoT valve control system for agricultural irrigation using Kotlin/Ktor, ESP32, MQTT, and Docker.
     
